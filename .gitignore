@@ -6,6 +6,7 @@
 .packages
 build/
 .pub/
+deploy/
 
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
@@ -24,6 +25,5 @@ doc/api/
 
 .flutter-plugins-dependencies
 
-lib/generated_plugin_registrant.dart
 
 extra/
